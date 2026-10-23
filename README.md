@@ -15,6 +15,7 @@ Grinder is a task management application that allows users to create an account,
 
 ## Technologies
 
+
 ### Front-end
 
 - [SvelteKit](https://kit.svelte.dev/docs) - Front-end framework
