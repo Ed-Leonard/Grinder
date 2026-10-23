@@ -349,6 +349,8 @@ Most icons throughout the app are drawn from or adapted from [Lucide](https://lu
 
 Full licence texts for the packages above are available from their respective project pages, or from the `node_modules` and NuGet package caches used to build Grinder.
 
+The IP for this project is owned by the contributing members of the team and the University of Canterbury. The project is licensed under the [MIT License](LICENSE.md).
+
 ## Acknowledgements
 
 This project was created as a part of the University of Canterbury's SENG302 course. The course information can be found [here](https://courseinfo.canterbury.ac.nz/GetCourseDetails.aspx?course=SENG302)
