@@ -1,0 +1,324 @@
+@import "@dayflow/core/dist/styles.components.css";
+@import "tailwindcss";
+
+@theme {
+  --color-surface: #ffffff;
+  --color-surface-alt: #eef1f5;
+
+  --color-surface-hover: #eef1f5;
+  --color-surface-alt-hover: #d6d3d1;
+
+  --color-text: #1c1917;
+  --color-text-muted: #57534e;
+
+  --color-brand: #2d3a4a;
+  --color-brand-alt: #1e2a38;
+
+  --color-todo: #6c757d;
+  --color-inprogress: #f4a261;
+  --color-done: #10b981;
+  --color-overdue: #ef4444;
+
+  --shadow-color: 220 3% 15%;
+
+  /* have to define every style in order to change colour in dark mode */
+  --shadow-sm: 0 1px 2px 0 hsl(var(--shadow-color) / 0.1);
+  --shadow-md:
+    0 4px 6px -1px hsl(var(--shadow-color) / 0.15),
+    0 2px 4px -2px hsl(var(--shadow-color) / 0.15);
+  --shadow-lg:
+    0 10px 15px -3px hsl(var(--shadow-color) / 0.15),
+    0 4px 6px -4px hsl(var(--shadow-color) / 0.15);
+  --shadow-xl:
+    0 20px 25px -5px hsl(var(--shadow-color) / 0.1),
+    0 8px 10px -6px hsl(var(--shadow-color) / 0.1);
+  --shadow-2xl: 0 25px 50px -12px hsl(var(--shadow-color) / 0.25);
+
+  --breakpoint-xs: 30rem;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.dark {
+  --color-surface: #1c1917;
+  --color-surface-alt: #242426;
+
+  --color-surface-hover: #242426;
+  --color-surface-alt-hover: #48484d;
+
+  --color-text: #ffffff;
+  --color-text-muted: #a8a29e;
+
+  --color-brand: #9cb5d5;
+  --color-brand-alt: #c3cfec;
+
+  --shadow-color: 180 5% 40%;
+}
+
+body {
+  font-family:
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+    Cantarell, sans-serif;
+  color: var(--color-text);
+  background-color: var(--color-surface);
+}
+
+/* prevent default autofill colour looking ugly on dark mode */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  box-shadow: 0 0 0 1000px var(--color-surface-alt) inset !important;
+  -webkit-text-fill-color: var(--color-text) !important;
+  caret-color: var(--color-text) !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+.app-container {
+  display: contents;
+}
+
+.floating:has(input[required], select[required]) > label::after {
+  content: " *";
+  color: red;
+}
+
+input.form-control:focus {
+  background-color: var(--color-secondary);
+}
+
+.drop-left::before,
+.drop-right::after,
+.drop-before::before,
+.drop-after::after {
+  display: none;
+}
+
+#dayflow-add-event-btn {
+  display: none;
+}
+
+.df-view-switcher {
+  background-color: var(--color-surface-alt);
+}
+
+.df-month-view .df-event {
+  position: relative;
+}
+
+.df-event-title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* idk some of them do something */
+.df-calendar-container,
+.df-portal {
+  --df-color-background: var(--color-surface);
+  --df-color-foreground: var(--color-text);
+  --df-color-hover: var(--color-surface-hover);
+  --df-color-border: var(--color-surface-alt);
+  --df-color-card: var(--color-surface-alt);
+  --df-color-card-foreground: var(--color-text);
+  --df-color-muted: var(--color-surface-alt);
+  --df-color-muted-foreground: var(--color-text-muted);
+  --df-color-primary: var(--color-brand);
+  --df-color-secondary: var(--color-brand-alt);
+  --df-color-destructive: var(--color-red-500);
+  --df-hover-primary-solid: var(--color-surface-alt-hover);
+  box-shadow: var(--shadow-sm);
+}
+
+.df-event[data-selected="false"]:hover {
+  background-color: color-mix(
+    in srgb,
+    currentColor 25%,
+    transparent
+  ) !important;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 20%;
+  }
+
+  50% {
+    background-position: 40% 20%;
+  }
+
+  100% {
+    background-position: 0% 20%;
+  }
+}
+
+@layer components {
+  .df-event-color-bar {
+    @apply -my-1 -ml-1.5 w-1.5 rounded-r-sm;
+  }
+
+  .input-field {
+    @apply w-full rounded-full border border-surface-alt px-4 pt-6 pb-2 text-sm text-text placeholder-transparent focus:ring-1 focus:ring-brand focus:outline-none disabled:bg-surface-alt/50 [.submitted:invalid]:border-red-500 [.submitted:invalid]:focus:ring-0 [.submitted:valid]:border-green-700 [.submitted:valid]:ring-0;
+  }
+
+  .input-label {
+    @apply pointer-events-none absolute top-2 left-4 text-xs text-text-muted transition-all peer-placeholder-shown:top-4.25 peer-placeholder-shown:text-sm peer-focus:top-2 peer-focus:text-xs peer-focus:text-text;
+  }
+
+  .input-invalid {
+    @apply mt-1 hidden text-xs text-red-500 peer-[.submitted:invalid]:visible peer-[.submitted:invalid]:block peer-[.submitted:valid]:invisible peer-[.submitted:valid]:block;
+  }
+
+  .text-area-field {
+    @apply w-full resize-none overflow-hidden rounded-4xl border border-surface-alt px-4 pt-6 pb-2 text-sm text-text placeholder-transparent focus:ring-1 focus:ring-brand focus:outline-none disabled:bg-surface-alt/50 [.submitted:invalid]:border-red-500 [.submitted:invalid]:focus:ring-0 [.submitted:valid]:border-green-700 [.submitted:valid]:ring-0;
+  }
+
+  .search-field {
+    @apply w-full rounded-full border border-surface-alt px-4 py-2 text-sm focus:ring-1 focus:ring-brand focus:outline-none disabled:bg-surface-alt/50;
+  }
+
+  .primary-button {
+    @apply rounded-full bg-brand px-4 py-2 text-sm font-semibold text-surface shadow-sm transition hover:bg-brand-alt disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .secondary-button {
+    @apply rounded-full bg-surface-alt px-4 py-2 text-sm font-semibold transition-colors hover:bg-surface-alt-hover disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .icon-button {
+    @apply rounded-full p-2 text-text transition hover:bg-surface-alt-hover active:scale-90 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .card {
+    @apply rounded-none border-surface-alt bg-surface p-4 shadow-none sm:p-8 md:rounded-2xl md:border md:shadow-sm;
+  }
+
+  .cancel-button {
+    @apply text-sm text-text-muted underline transition-colors hover:text-text;
+  }
+
+  .redirect-button {
+    @apply text-blue-500 underline transition-colors hover:text-blue-800;
+  }
+
+  .destructive-button {
+    @apply cursor-pointer rounded-full bg-red-500 px-4 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-red-600 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .legal-content {
+    @apply text-sm leading-relaxed text-text;
+
+    h2 {
+      @apply mt-10 mb-3 text-left text-xl first:mt-0;
+    }
+
+    h3 {
+      @apply mt-6 mb-2 text-left text-base;
+    }
+
+    p {
+      @apply mb-4 text-text-muted;
+    }
+
+    ul,
+    ol {
+      @apply mb-4 ml-5 list-disc space-y-2 text-text-muted;
+    }
+
+    ol {
+      @apply list-decimal;
+    }
+
+    a {
+      @apply text-blue-500 underline transition-colors hover:text-blue-800;
+    }
+
+    strong {
+      @apply font-semibold text-text;
+    }
+
+    table {
+      @apply mb-6 w-full table-fixed border-collapse text-left text-xs;
+    }
+
+    th:first-child,
+    td:first-child {
+      @apply w-72;
+    }
+
+    th:last-child,
+    td:last-child {
+      @apply w-40;
+    }
+
+    th,
+    td {
+      @apply border-b border-surface-alt px-3 py-2 align-top;
+    }
+
+    th {
+      @apply text-text;
+    }
+
+    td {
+      @apply text-text-muted;
+    }
+  }
+}
+
+@layer base {
+  button {
+    @apply cursor-pointer;
+  }
+
+  :root {
+    color-scheme: light;
+  }
+  .dark {
+    color-scheme: dark;
+  }
+
+  select,
+  input,
+  textarea {
+    background-color: var(--color-surface);
+    color: var(--color-text);
+  }
+
+  select option {
+    background-color: var(--color-surface);
+    color: var(--color-text);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-center font-serif font-bold tracking-tight text-text;
+
+    &:is(h1) {
+      @apply text-3xl;
+    }
+
+    &:is(h2) {
+      @apply text-2xl;
+    }
+
+    &:is(h3) {
+      @apply text-xl;
+    }
+
+    &:is(h4) {
+      @apply text-lg;
+    }
+
+    &:is(h5) {
+      @apply text-base;
+    }
+
+    &:is(h6) {
+      @apply text-sm;
+    }
+  }
+}

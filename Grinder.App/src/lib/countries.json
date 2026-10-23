@@ -1,0 +1,1194 @@
+{
+  "_meta": {
+    "description": "All UN member states (193) + observer states (Vatican City, Palestine) + Kosovo + Taiwan",
+    "total": 197,
+    "flag_source": "lipis/flag-icons (https://github.com/lipis/flag-icons)",
+    "flag_license": "MIT",
+    "codes": "ISO 3166-1 alpha-2 (XK for Kosovo is non-standard but widely used)",
+    "cdn": "jsDelivr (https://www.jsdelivr.com/package/npm/flag-icons)"
+  },
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/af.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/af.svg"
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/al.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/al.svg"
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/dz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/dz.svg"
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ad.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ad.svg"
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ao.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ao.svg"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ag.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ag.svg"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ar.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ar.svg"
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/am.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/am.svg"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/au.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/au.svg"
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/at.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/at.svg"
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/az.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/az.svg"
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bs.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bs.svg"
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bh.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bh.svg"
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bd.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bd.svg"
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bb.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bb.svg"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/by.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/by.svg"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/be.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/be.svg"
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bz.svg"
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bj.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bj.svg"
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bt.svg"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bo.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bo.svg"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ba.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ba.svg"
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bw.svg"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/br.svg"
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bn.svg"
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bg.svg"
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bf.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bf.svg"
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/bi.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/bi.svg"
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cv.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cv.svg"
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kh.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kh.svg"
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cm.svg"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ca.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ca.svg"
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cf.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cf.svg"
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/td.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/td.svg"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cl.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cl.svg"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cn.svg"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/co.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/co.svg"
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/km.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/km.svg"
+    },
+    {
+      "name": "Congo (Democratic Republic)",
+      "code": "CD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cd.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cd.svg"
+    },
+    {
+      "name": "Congo (Republic)",
+      "code": "CG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cg.svg"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cr.svg"
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/hr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/hr.svg"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cu.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cu.svg"
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cy.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cy.svg"
+    },
+    {
+      "name": "Czechia",
+      "code": "CZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/cz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/cz.svg"
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "code": "CI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ci.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ci.svg"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/dk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/dk.svg"
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/dj.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/dj.svg"
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/dm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/dm.svg"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/do.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/do.svg"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ec.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ec.svg"
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/eg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/eg.svg"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sv.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sv.svg"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gq.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gq.svg"
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/er.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/er.svg"
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ee.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ee.svg"
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sz.svg"
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/et.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/et.svg"
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fj.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/fj.svg"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fi.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/fi.svg"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/fr.svg"
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ga.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ga.svg"
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gm.svg"
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ge.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ge.svg"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/de.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/de.svg"
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gh.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gh.svg"
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gr.svg"
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gd.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gd.svg"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gt.svg"
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gn.svg"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gw.svg"
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gy.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gy.svg"
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ht.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ht.svg"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/hn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/hn.svg"
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/hu.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/hu.svg"
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/is.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/is.svg"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/in.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/in.svg"
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/id.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/id.svg"
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ir.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ir.svg"
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/iq.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/iq.svg"
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ie.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ie.svg"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/il.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/il.svg"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/it.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/it.svg"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/jm.svg"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jp.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/jp.svg"
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/jo.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/jo.svg"
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kz.svg"
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ke.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ke.svg"
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ki.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ki.svg"
+    },
+    {
+      "name": "Korea (North)",
+      "code": "KP",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kp.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kp.svg"
+    },
+    {
+      "name": "Korea (South)",
+      "code": "KR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kr.svg"
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/xk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/xk.svg"
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kw.svg"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kg.svg"
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/la.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/la.svg"
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lv.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lv.svg"
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lb.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lb.svg"
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ls.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ls.svg"
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lr.svg"
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ly.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ly.svg"
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/li.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/li.svg"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lt.svg"
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lu.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lu.svg"
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mg.svg"
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mw.svg"
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/my.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/my.svg"
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mv.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mv.svg"
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ml.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ml.svg"
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mt.svg"
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mh.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mh.svg"
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mr.svg"
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mu.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mu.svg"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mx.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mx.svg"
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/fm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/fm.svg"
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/md.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/md.svg"
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mc.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mc.svg"
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mn.svg"
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/me.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/me.svg"
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ma.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ma.svg"
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mz.svg"
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mm.svg"
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/na.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/na.svg"
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/nr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/nr.svg"
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/np.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/np.svg"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/nl.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/nl.svg"
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/nz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/nz.svg"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ni.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ni.svg"
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ne.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ne.svg"
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ng.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ng.svg"
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/mk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/mk.svg"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/no.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/no.svg"
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/om.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/om.svg"
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pk.svg"
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pw.svg"
+    },
+    {
+      "name": "Palestine",
+      "code": "PS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ps.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ps.svg"
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pa.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pa.svg"
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pg.svg"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/py.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/py.svg"
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pe.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pe.svg"
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ph.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ph.svg"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pl.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pl.svg"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/pt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/pt.svg"
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/qa.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/qa.svg"
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ro.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ro.svg"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ru.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ru.svg"
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/rw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/rw.svg"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/kn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/kn.svg"
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lc.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lc.svg"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/vc.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/vc.svg"
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ws.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ws.svg"
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sm.svg"
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sa.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sa.svg"
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sn.svg"
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/rs.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/rs.svg"
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sc.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sc.svg"
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sl.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sl.svg"
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sg.svg"
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sk.svg"
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/si.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/si.svg"
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sb.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sb.svg"
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/so.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/so.svg"
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/za.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/za.svg"
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ss.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ss.svg"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/es.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/es.svg"
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/lk.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/lk.svg"
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sd.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sd.svg"
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sr.svg"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/se.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/se.svg"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ch.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ch.svg"
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/sy.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/sy.svg"
+    },
+    {
+      "name": "São Tomé and Príncipe",
+      "code": "ST",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/st.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/st.svg"
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tw.svg"
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tj.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tj.svg"
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tz.svg"
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/th.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/th.svg"
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tl.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tl.svg"
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tg.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tg.svg"
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/to.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/to.svg"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tt.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tt.svg"
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tn.svg"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tr.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tr.svg"
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tm.svg"
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tv.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/tv.svg"
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ug.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ug.svg"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ua.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ua.svg"
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ae.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ae.svg"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/gb.svg"
+    },
+    {
+      "name": "United States",
+      "code": "US",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/us.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/us.svg"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/uy.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/uy.svg"
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/uz.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/uz.svg"
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/vu.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/vu.svg"
+    },
+    {
+      "name": "Vatican City",
+      "code": "VA",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/va.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/va.svg"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ve.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ve.svg"
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/vn.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/vn.svg"
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/ye.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/ye.svg"
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/zm.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/zm.svg"
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "flag_4x3": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/zw.svg",
+      "flag_1x1": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/1x1/zw.svg"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Grinder.Api.Tests/Grinder.Api.Tests.csproj" />
+    <Project Path="Grinder.Api/Grinder.Api.csproj" />
+</Solution>

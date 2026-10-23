@@ -1,0 +1,3896 @@
+{
+  "Grinder.Api.dll": {
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/Entities/EmailSettings.cs": {
+      "EmailSettings": {
+        "System.String EmailSettings::get_SmtpServer()": {
+          "Lines": {
+            "3": 87
+          },
+          "Branches": []
+        },
+        "System.Int32 EmailSettings::get_SmtpPort()": {
+          "Lines": {
+            "4": 87
+          },
+          "Branches": []
+        },
+        "System.String EmailSettings::get_FromEmail()": {
+          "Lines": {
+            "5": 87
+          },
+          "Branches": []
+        },
+        "System.String EmailSettings::get_FromName()": {
+          "Lines": {
+            "6": 87
+          },
+          "Branches": []
+        },
+        "System.String EmailSettings::get_Username()": {
+          "Lines": {
+            "7": 87
+          },
+          "Branches": []
+        },
+        "System.String EmailSettings::get_Password()": {
+          "Lines": {
+            "8": 87
+          },
+          "Branches": []
+        },
+        "System.Void EmailSettings::.ctor()": {
+          "Lines": {
+            "1": 83
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Program.cs": {
+      "Grinder.Api.Program": {
+        "System.Void Grinder.Api.Program::Main(System.String[])": {
+          "Lines": {
+            "12": 141,
+            "15": 141,
+            "16": 141,
+            "17": 141,
+            "18": 141,
+            "19": 141,
+            "20": 141,
+            "21": 141,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "33": 141,
+            "35": 141,
+            "37": 141,
+            "39": 141,
+            "40": 141,
+            "41": 141,
+            "42": 141,
+            "45": 141,
+            "49": 141,
+            "50": 88,
+            "51": 88,
+            "52": 88,
+            "53": 88,
+            "54": 88,
+            "55": 88,
+            "56": 229,
+            "59": 141,
+            "60": 282,
+            "62": 141,
+            "65": 141,
+            "68": 141,
+            "69": 141,
+            "70": 141,
+            "72": 141,
+            "73": 141,
+            "74": 141,
+            "75": 141,
+            "76": 141,
+            "77": 141,
+            "78": 141,
+            "79": 141,
+            "80": 282,
+            "83": 141,
+            "84": 141,
+            "85": 141,
+            "86": 141,
+            "87": 141,
+            "88": 141,
+            "89": 141,
+            "90": 141,
+            "91": 141,
+            "92": 141,
+            "93": 282,
+            "94": 282,
+            "95": 141,
+            "97": 141,
+            "100": 141,
+            "101": 0,
+            "102": 0,
+            "103": 0,
+            "104": 0,
+            "105": 0,
+            "106": 0,
+            "108": 141,
+            "111": 141,
+            "112": 141,
+            "113": 0,
+            "114": 0,
+            "115": 0,
+            "117": 141,
+            "119": 141,
+            "120": 141,
+            "123": 141,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "128": 141,
+            "129": 141,
+            "130": 141,
+            "131": 141,
+            "134": 141,
+            "137": 141,
+            "138": 0,
+            "139": 0,
+            "140": 0,
+            "141": 141,
+            "143": 141,
+            "145": 141,
+            "146": 141,
+            "147": 141,
+            "148": 141,
+            "149": 141,
+            "150": 141,
+            "151": 282,
+            "152": 141,
+            "154": 141,
+            "155": 141
+          },
+          "Branches": [
+            {
+              "Line": 15,
+              "Offset": 33,
+              "EndOffset": 35,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 141
+            },
+            {
+              "Line": 15,
+              "Offset": 33,
+              "EndOffset": 41,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 141
+            },
+            {
+              "Line": 21,
+              "Offset": 99,
+              "EndOffset": 101,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 141
+            },
+            {
+              "Line": 21,
+              "Offset": 99,
+              "EndOffset": 109,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 114,
+              "EndOffset": 116,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 194,
+              "EndOffset": 131,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 163,
+              "EndOffset": 181,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 194,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 21,
+              "Offset": 114,
+              "EndOffset": 197,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 141
+            },
+            {
+              "Line": 39,
+              "Offset": 309,
+              "EndOffset": 311,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 141
+            },
+            {
+              "Line": 39,
+              "Offset": 309,
+              "EndOffset": 330,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 141
+            },
+            {
+              "Line": 68,
+              "Offset": 467,
+              "EndOffset": 469,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 141
+            },
+            {
+              "Line": 68,
+              "Offset": 485,
+              "EndOffset": 487,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 141
+            },
+            {
+              "Line": 68,
+              "Offset": 467,
+              "EndOffset": 490,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            },
+            {
+              "Line": 68,
+              "Offset": 485,
+              "EndOffset": 490,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 0
+            },
+            {
+              "Line": 83,
+              "Offset": 545,
+              "EndOffset": 547,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 141
+            },
+            {
+              "Line": 83,
+              "Offset": 545,
+              "EndOffset": 597,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 141
+            },
+            {
+              "Line": 100,
+              "Offset": 625,
+              "EndOffset": 627,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 141
+            },
+            {
+              "Line": 100,
+              "Offset": 625,
+              "EndOffset": 645,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 650,
+              "EndOffset": 652,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 650,
+              "EndOffset": 674,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 141
+            },
+            {
+              "Line": 112,
+              "Offset": 726,
+              "EndOffset": 728,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 726,
+              "EndOffset": 743,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 141
+            },
+            {
+              "Line": 123,
+              "Offset": 780,
+              "EndOffset": 782,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 141
+            },
+            {
+              "Line": 123,
+              "Offset": 780,
+              "EndOffset": 800,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 805,
+              "EndOffset": 807,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 805,
+              "EndOffset": 816,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 141
+            },
+            {
+              "Line": 128,
+              "Offset": 831,
+              "EndOffset": 833,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 141
+            },
+            {
+              "Line": 128,
+              "Offset": 831,
+              "EndOffset": 847,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 141
+            },
+            {
+              "Line": 145,
+              "Offset": 919,
+              "EndOffset": 921,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 141
+            },
+            {
+              "Line": 145,
+              "Offset": 919,
+              "EndOffset": 973,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 141
+            },
+            {
+              "Line": 55,
+              "Offset": 70,
+              "EndOffset": 72,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 88
+            },
+            {
+              "Line": 55,
+              "Offset": 88,
+              "EndOffset": 90,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 88
+            },
+            {
+              "Line": 55,
+              "Offset": 70,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 88,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 23,
+              "EndOffset": 25,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 141
+            },
+            {
+              "Line": 60,
+              "Offset": 23,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 141
+            }
+          ]
+        },
+        "System.Void Grinder.Api.Program::InitializeDatabase(System.IServiceProvider)": {
+          "Lines": {
+            "158": 141,
+            "159": 141,
+            "160": 141,
+            "163": 141,
+            "164": 141
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Program::RegisterServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "167": 141,
+            "169": 141,
+            "173": 141,
+            "174": 141,
+            "176": 141,
+            "177": 141,
+            "179": 141,
+            "181": 141,
+            "183": 141,
+            "185": 141,
+            "186": 141
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Utilities/Session.cs": {
+      "Grinder.Api.Utilities.Session": {
+        "System.Nullable`1<System.Int32> Grinder.Api.Utilities.Session::GetUserId(Microsoft.AspNetCore.Http.HttpContext)": {
+          "Lines": {
+            "22": 25,
+            "23": 25,
+            "24": 25,
+            "25": 25
+          },
+          "Branches": [
+            {
+              "Line": 23,
+              "Offset": 18,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 23,
+              "Offset": 18,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 25
+            },
+            {
+              "Line": 24,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 38,
+              "EndOffset": 51,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 25
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Utilities/ValidationHelper.cs": {
+      "Grinder.Api.Utilities.ValidationHelper": {
+        "System.Boolean Grinder.Api.Utilities.ValidationHelper::ValidateEntity(System.Object)": {
+          "Lines": {
+            "21": 13,
+            "22": 13,
+            "23": 13,
+            "24": 13,
+            "25": 13,
+            "26": 13
+          },
+          "Branches": []
+        },
+        "System.Boolean Grinder.Api.Utilities.ValidationHelper::ValidateEmail(System.String)": {
+          "Lines": {
+            "39": 27,
+            "40": 29,
+            "41": 25,
+            "43": 25,
+            "44": 25,
+            "45": 1,
+            "47": 24,
+            "48": 24,
+            "50": 24,
+            "51": 24,
+            "52": 24,
+            "54": 28,
+            "55": 21,
+            "57": 19,
+            "58": 21,
+            "60": 132,
+            "61": 42,
+            "62": 44,
+            "63": 40,
+            "64": 1,
+            "65": 39,
+            "67": 14,
+            "68": 16,
+            "70": 12,
+            "71": 27
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 11,
+              "EndOffset": 13,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 40,
+              "Offset": 11,
+              "EndOffset": 21,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 25
+            },
+            {
+              "Line": 41,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 41,
+              "Offset": 38,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 25
+            },
+            {
+              "Line": 44,
+              "Offset": 59,
+              "EndOffset": 61,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 24
+            },
+            {
+              "Line": 44,
+              "Offset": 59,
+              "EndOffset": 77,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 82,
+              "EndOffset": 84,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 82,
+              "EndOffset": 92,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 24
+            },
+            {
+              "Line": 50,
+              "Offset": 135,
+              "EndOffset": 137,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 24
+            },
+            {
+              "Line": 50,
+              "Offset": 135,
+              "EndOffset": 145,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 150,
+              "EndOffset": 152,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 50,
+              "Offset": 150,
+              "EndOffset": 160,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 24
+            },
+            {
+              "Line": 51,
+              "Offset": 174,
+              "EndOffset": 176,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 51,
+              "Offset": 174,
+              "EndOffset": 184,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 24
+            },
+            {
+              "Line": 52,
+              "Offset": 201,
+              "EndOffset": 203,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 0
+            },
+            {
+              "Line": 52,
+              "Offset": 201,
+              "EndOffset": 211,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 24
+            },
+            {
+              "Line": 54,
+              "Offset": 219,
+              "EndOffset": 221,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 22
+            },
+            {
+              "Line": 54,
+              "Offset": 229,
+              "EndOffset": 231,
+              "Path": 0,
+              "Ordinal": 18,
+              "Hits": 22
+            },
+            {
+              "Line": 54,
+              "Offset": 219,
+              "EndOffset": 244,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 2
+            },
+            {
+              "Line": 54,
+              "Offset": 229,
+              "EndOffset": 244,
+              "Path": 1,
+              "Ordinal": 19,
+              "Hits": 2
+            },
+            {
+              "Line": 54,
+              "Offset": 249,
+              "EndOffset": 251,
+              "Path": 0,
+              "Ordinal": 20,
+              "Hits": 4
+            },
+            {
+              "Line": 54,
+              "Offset": 249,
+              "EndOffset": 259,
+              "Path": 1,
+              "Ordinal": 21,
+              "Hits": 20
+            },
+            {
+              "Line": 55,
+              "Offset": 282,
+              "EndOffset": 284,
+              "Path": 0,
+              "Ordinal": 22,
+              "Hits": 1
+            },
+            {
+              "Line": 55,
+              "Offset": 282,
+              "EndOffset": 292,
+              "Path": 1,
+              "Ordinal": 23,
+              "Hits": 19
+            },
+            {
+              "Line": 58,
+              "Offset": 312,
+              "EndOffset": 314,
+              "Path": 0,
+              "Ordinal": 24,
+              "Hits": 2
+            },
+            {
+              "Line": 58,
+              "Offset": 312,
+              "EndOffset": 322,
+              "Path": 1,
+              "Ordinal": 25,
+              "Hits": 17
+            },
+            {
+              "Line": 60,
+              "Offset": 418,
+              "EndOffset": 331,
+              "Path": 1,
+              "Ordinal": 33,
+              "Hits": 42
+            },
+            {
+              "Line": 62,
+              "Offset": 347,
+              "EndOffset": 349,
+              "Path": 0,
+              "Ordinal": 26,
+              "Hits": 40
+            },
+            {
+              "Line": 62,
+              "Offset": 347,
+              "EndOffset": 362,
+              "Path": 1,
+              "Ordinal": 27,
+              "Hits": 2
+            },
+            {
+              "Line": 62,
+              "Offset": 367,
+              "EndOffset": 369,
+              "Path": 0,
+              "Ordinal": 28,
+              "Hits": 2
+            },
+            {
+              "Line": 62,
+              "Offset": 367,
+              "EndOffset": 374,
+              "Path": 1,
+              "Ordinal": 29,
+              "Hits": 40
+            },
+            {
+              "Line": 63,
+              "Offset": 398,
+              "EndOffset": 400,
+              "Path": 0,
+              "Ordinal": 30,
+              "Hits": 1
+            },
+            {
+              "Line": 63,
+              "Offset": 398,
+              "EndOffset": 405,
+              "Path": 1,
+              "Ordinal": 31,
+              "Hits": 39
+            },
+            {
+              "Line": 60,
+              "Offset": 418,
+              "EndOffset": 420,
+              "Path": 0,
+              "Ordinal": 32,
+              "Hits": 14
+            },
+            {
+              "Line": 68,
+              "Offset": 450,
+              "EndOffset": 452,
+              "Path": 0,
+              "Ordinal": 34,
+              "Hits": 2
+            },
+            {
+              "Line": 68,
+              "Offset": 450,
+              "EndOffset": 457,
+              "Path": 1,
+              "Ordinal": 35,
+              "Hits": 12
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/MailKitService.cs": {
+      "Grinder.Api.Services.MailKitService": {
+        "System.Void Grinder.Api.Services.MailKitService::.ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.Extensions.Options.IOptions`1<EmailSettings>)": {
+          "Lines": {
+            "23": 137,
+            "24": 137,
+            "25": 137,
+            "26": 137,
+            "27": 137
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.MailKitService/<SendEmailAsync>d__3": {
+        "System.Void Grinder.Api.Services.MailKitService/<SendEmailAsync>d__3::MoveNext()": {
+          "Lines": {
+            "47": 4,
+            "48": 4,
+            "49": 4,
+            "50": 4,
+            "51": 4,
+            "52": 4,
+            "53": 4,
+            "55": 4,
+            "56": 4,
+            "57": 4,
+            "58": 4,
+            "60": 4,
+            "61": 4,
+            "62": 4,
+            "63": 4,
+            "65": 4,
+            "66": 4,
+            "67": 3,
+            "69": 0,
+            "70": 0,
+            "71": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/TaskListService.cs": {
+      "Grinder.Api.Services.TaskListService": {
+        "System.Void Grinder.Api.Services.TaskListService::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,System.TimeProvider)": {
+          "Lines": {
+            "26": 26,
+            "27": 26,
+            "28": 26,
+            "29": 26,
+            "30": 26
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.TaskListService/<CreateNewTaskListAsync>d__3": {
+        "System.Void Grinder.Api.Services.TaskListService/<CreateNewTaskListAsync>d__3::MoveNext()": {
+          "Lines": {
+            "41": 3,
+            "42": 3,
+            "44": 3,
+            "45": 4,
+            "47": 2,
+            "48": 2,
+            "49": 2,
+            "50": 2,
+            "51": 2,
+            "52": 2,
+            "54": 2,
+            "55": 2,
+            "57": 2,
+            "58": 2
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 499,
+              "EndOffset": 501,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 45,
+              "Offset": 499,
+              "EndOffset": 517,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 57,
+              "Offset": 760,
+              "EndOffset": 762,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 3
+            },
+            {
+              "Line": 57,
+              "Offset": 760,
+              "EndOffset": 871,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskListService/<GetAllTaskLists>d__4": {
+        "System.Void Grinder.Api.Services.TaskListService/<GetAllTaskLists>d__4::MoveNext()": {
+          "Lines": {
+            "68": 9,
+            "69": 9,
+            "71": 9,
+            "72": 9,
+            "73": 9,
+            "74": 9
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 505,
+              "EndOffset": 507,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            },
+            {
+              "Line": 71,
+              "Offset": 505,
+              "EndOffset": 616,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 9
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskListService/<GetTaskListByIdAsync>d__5": {
+        "System.Void Grinder.Api.Services.TaskListService/<GetTaskListByIdAsync>d__5::MoveNext()": {
+          "Lines": {
+            "85": 5,
+            "86": 5,
+            "88": 5,
+            "89": 5,
+            "90": 5
+          },
+          "Branches": [
+            {
+              "Line": 88,
+              "Offset": 588,
+              "EndOffset": 590,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 5
+            },
+            {
+              "Line": 88,
+              "Offset": 588,
+              "EndOffset": 699,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 5
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/TaskService.cs": {
+      "Grinder.Api.Services.TaskService": {
+        "System.Void Grinder.Api.Services.TaskService::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,System.TimeProvider)": {
+          "Lines": {
+            "29": 45,
+            "30": 45,
+            "31": 45,
+            "32": 45,
+            "33": 45
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.TaskService/<CreateNewTaskAsync>d__3": {
+        "System.Void Grinder.Api.Services.TaskService/<CreateNewTaskAsync>d__3::MoveNext()": {
+          "Lines": {
+            "56": 18,
+            "57": 18,
+            "59": 18,
+            "60": 18,
+            "61": 1,
+            "62": 1,
+            "66": 17,
+            "67": 2,
+            "68": 2,
+            "71": 15,
+            "72": 15,
+            "73": 15,
+            "74": 15,
+            "75": 15,
+            "76": 15,
+            "77": 15,
+            "78": 15,
+            "79": 15,
+            "80": 15,
+            "81": 15,
+            "83": 15,
+            "84": 15,
+            "86": 15,
+            "87": 15
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 587,
+              "EndOffset": 589,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 587,
+              "EndOffset": 606,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 17
+            },
+            {
+              "Line": 66,
+              "Offset": 617,
+              "EndOffset": 619,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 11
+            },
+            {
+              "Line": 66,
+              "Offset": 617,
+              "EndOffset": 653,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 6
+            },
+            {
+              "Line": 66,
+              "Offset": 658,
+              "EndOffset": 660,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 66,
+              "Offset": 658,
+              "EndOffset": 677,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 15
+            },
+            {
+              "Line": 86,
+              "Offset": 954,
+              "EndOffset": 956,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 18
+            },
+            {
+              "Line": 86,
+              "Offset": 954,
+              "EndOffset": 1065,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 18
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskService/<EditTaskAsync>d__4": {
+        "System.Void Grinder.Api.Services.TaskService/<EditTaskAsync>d__4::MoveNext()": {
+          "Lines": {
+            "111": 13,
+            "112": 13,
+            "114": 13,
+            "115": 13,
+            "117": 13,
+            "118": 2,
+            "119": 2,
+            "122": 11,
+            "123": 11,
+            "124": 0,
+            "125": 0,
+            "126": 0,
+            "129": 11,
+            "130": 0,
+            "131": 0,
+            "134": 11,
+            "135": 2,
+            "136": 2,
+            "139": 9,
+            "140": 9,
+            "141": 9,
+            "142": 9,
+            "144": 9,
+            "145": 9,
+            "146": 11
+          },
+          "Branches": [
+            {
+              "Line": 117,
+              "Offset": 614,
+              "EndOffset": 616,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 117,
+              "Offset": 614,
+              "EndOffset": 629,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 11
+            },
+            {
+              "Line": 123,
+              "Offset": 658,
+              "EndOffset": 660,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 11
+            },
+            {
+              "Line": 123,
+              "Offset": 658,
+              "EndOffset": 680,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 685,
+              "EndOffset": 687,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 123,
+              "Offset": 685,
+              "EndOffset": 704,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 11
+            },
+            {
+              "Line": 129,
+              "Offset": 710,
+              "EndOffset": 712,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 7
+            },
+            {
+              "Line": 129,
+              "Offset": 710,
+              "EndOffset": 732,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            },
+            {
+              "Line": 129,
+              "Offset": 737,
+              "EndOffset": 739,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 129,
+              "Offset": 737,
+              "EndOffset": 756,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 11
+            },
+            {
+              "Line": 134,
+              "Offset": 767,
+              "EndOffset": 769,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 10
+            },
+            {
+              "Line": 134,
+              "Offset": 767,
+              "EndOffset": 803,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 1
+            },
+            {
+              "Line": 134,
+              "Offset": 808,
+              "EndOffset": 810,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 2
+            },
+            {
+              "Line": 134,
+              "Offset": 808,
+              "EndOffset": 827,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 9
+            },
+            {
+              "Line": 145,
+              "Offset": 1054,
+              "EndOffset": 1056,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 13
+            },
+            {
+              "Line": 145,
+              "Offset": 1054,
+              "EndOffset": 1165,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 13
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskService/<GetAllTasks>d__5": {
+        "System.Void Grinder.Api.Services.TaskService/<GetAllTasks>d__5::MoveNext()": {
+          "Lines": {
+            "158": 6,
+            "159": 6,
+            "161": 6,
+            "162": 6,
+            "163": 6,
+            "164": 6
+          },
+          "Branches": [
+            {
+              "Line": 161,
+              "Offset": 525,
+              "EndOffset": 527,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 161,
+              "Offset": 525,
+              "EndOffset": 636,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 6
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskService/<GetTaskByIdAsync>d__7": {
+        "System.Void Grinder.Api.Services.TaskService/<GetTaskByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "191": 4,
+            "192": 4,
+            "194": 4,
+            "195": 4,
+            "196": 4
+          },
+          "Branches": [
+            {
+              "Line": 194,
+              "Offset": 608,
+              "EndOffset": 610,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 194,
+              "Offset": 608,
+              "EndOffset": 719,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.TaskService/<GetTasksByTaskListIdAsync>d__6": {
+        "System.Void Grinder.Api.Services.TaskService/<GetTasksByTaskListIdAsync>d__6::MoveNext()": {
+          "Lines": {
+            "177": 1,
+            "178": 1,
+            "180": 1,
+            "181": 1,
+            "182": 1,
+            "183": 1
+          },
+          "Branches": [
+            {
+              "Line": 180,
+              "Offset": 613,
+              "EndOffset": 615,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 180,
+              "Offset": 613,
+              "EndOffset": 724,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/UserService.cs": {
+      "Grinder.Api.Services.LoginResult": {
+        "System.String Grinder.Api.Services.LoginResult::get_AccessToken()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.UserService": {
+        "System.Void Grinder.Api.Services.UserService::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,System.TimeProvider,Grinder.Api.Services.IVerificationCodeService)": {
+          "Lines": {
+            "68": 137,
+            "69": 137,
+            "70": 137,
+            "71": 137,
+            "72": 137,
+            "73": 137
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.UserService/<EditProfileAsync>d__7": {
+        "System.Void Grinder.Api.Services.UserService/<EditProfileAsync>d__7::MoveNext()": {
+          "Lines": {
+            "208": 2,
+            "209": 2,
+            "211": 2,
+            "213": 2,
+            "214": 0,
+            "215": 0,
+            "218": 2,
+            "220": 2,
+            "222": 2,
+            "223": 1,
+            "224": 1,
+            "227": 1,
+            "228": 1,
+            "229": 1,
+            "231": 1,
+            "232": 1,
+            "233": 1,
+            "234": 1,
+            "236": 0,
+            "237": 0,
+            "240": 1,
+            "241": 1
+          },
+          "Branches": [
+            {
+              "Line": 213,
+              "Offset": 525,
+              "EndOffset": 527,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 525,
+              "EndOffset": 540,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 222,
+              "Offset": 703,
+              "EndOffset": 705,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 222,
+              "Offset": 703,
+              "EndOffset": 734,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 222,
+              "Offset": 739,
+              "EndOffset": 741,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 222,
+              "Offset": 739,
+              "EndOffset": 753,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            },
+            {
+              "Line": 231,
+              "Offset": 832,
+              "EndOffset": 834,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 1
+            },
+            {
+              "Line": 231,
+              "Offset": 832,
+              "EndOffset": 952,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 240,
+              "Offset": 1003,
+              "EndOffset": 1005,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 2
+            },
+            {
+              "Line": 240,
+              "Offset": 1003,
+              "EndOffset": 1114,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 2
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.UserService/<GetUserByEmailAsync>d__6": {
+        "System.Void Grinder.Api.Services.UserService/<GetUserByEmailAsync>d__6::MoveNext()": {
+          "Lines": {
+            "187": 34,
+            "188": 34,
+            "189": 34,
+            "190": 34
+          },
+          "Branches": [
+            {
+              "Line": 189,
+              "Offset": 500,
+              "EndOffset": 502,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 34
+            },
+            {
+              "Line": 189,
+              "Offset": 500,
+              "EndOffset": 611,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 34
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.UserService/<GetUserByIdAsync>d__8": {
+        "System.Void Grinder.Api.Services.UserService/<GetUserByIdAsync>d__8::MoveNext()": {
+          "Lines": {
+            "249": 3,
+            "250": 3,
+            "251": 3,
+            "252": 3
+          },
+          "Branches": [
+            {
+              "Line": 251,
+              "Offset": 500,
+              "EndOffset": 502,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 251,
+              "Offset": 500,
+              "EndOffset": 611,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.UserService/<RegisterAsync>d__5": {
+        "System.Void Grinder.Api.Services.UserService/<RegisterAsync>d__5::MoveNext()": {
+          "Lines": {
+            "130": 14,
+            "131": 14,
+            "133": 14,
+            "134": 14,
+            "135": 14,
+            "136": 14,
+            "137": 14,
+            "139": 14,
+            "140": 6,
+            "141": 6,
+            "143": 8,
+            "145": 8,
+            "146": 1,
+            "147": 1,
+            "150": 7,
+            "151": 7,
+            "152": 7,
+            "153": 7,
+            "154": 7,
+            "155": 7,
+            "156": 7,
+            "158": 7,
+            "159": 7,
+            "161": 7,
+            "162": 4,
+            "163": 4,
+            "164": 4,
+            "166": 4,
+            "167": 4,
+            "168": 4,
+            "169": 0,
+            "170": 0,
+            "171": 0,
+            "172": 0,
+            "173": 4,
+            "175": 3,
+            "176": 3,
+            "178": 4
+          },
+          "Branches": [
+            {
+              "Line": 139,
+              "Offset": 760,
+              "EndOffset": 762,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 6
+            },
+            {
+              "Line": 139,
+              "Offset": 760,
+              "EndOffset": 774,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 8
+            },
+            {
+              "Line": 145,
+              "Offset": 1009,
+              "EndOffset": 1011,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 145,
+              "Offset": 1009,
+              "EndOffset": 1023,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 7
+            },
+            {
+              "Line": 161,
+              "Offset": 1173,
+              "EndOffset": 1178,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 4
+            },
+            {
+              "Line": 161,
+              "Offset": 1173,
+              "EndOffset": 1493,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 176,
+              "Offset": 1534,
+              "EndOffset": 1536,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 14
+            },
+            {
+              "Line": 176,
+              "Offset": 1534,
+              "EndOffset": 1644,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 14
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.UserService/<UpdatePasswordAsync>d__9": {
+        "System.Void Grinder.Api.Services.UserService/<UpdatePasswordAsync>d__9::MoveNext()": {
+          "Lines": {
+            "255": 0,
+            "256": 0,
+            "258": 0,
+            "259": 0,
+            "261": 0,
+            "262": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "269": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0
+          },
+          "Branches": [
+            {
+              "Line": 258,
+              "Offset": 480,
+              "EndOffset": 482,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 258,
+              "Offset": 480,
+              "EndOffset": 494,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 264,
+              "Offset": 571,
+              "EndOffset": 573,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 264,
+              "Offset": 571,
+              "EndOffset": 585,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 272,
+              "Offset": 785,
+              "EndOffset": 787,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 272,
+              "Offset": 785,
+              "EndOffset": 895,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.UserService/<ValidateUserAsync>d__4": {
+        "System.Void Grinder.Api.Services.UserService/<ValidateUserAsync>d__4::MoveNext()": {
+          "Lines": {
+            "87": 78,
+            "88": 78,
+            "90": 78,
+            "92": 78,
+            "93": 2,
+            "94": 2,
+            "97": 76,
+            "98": 76,
+            "99": 0,
+            "100": 0,
+            "104": 76,
+            "105": 2,
+            "106": 2,
+            "109": 74,
+            "110": 74,
+            "112": 74,
+            "113": 0,
+            "114": 0,
+            "117": 74,
+            "118": 74
+          },
+          "Branches": [
+            {
+              "Line": 92,
+              "Offset": 526,
+              "EndOffset": 528,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 92,
+              "Offset": 526,
+              "EndOffset": 540,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 76
+            },
+            {
+              "Line": 98,
+              "Offset": 692,
+              "EndOffset": 694,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 98,
+              "Offset": 692,
+              "EndOffset": 706,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 76
+            },
+            {
+              "Line": 104,
+              "Offset": 724,
+              "EndOffset": 726,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 104,
+              "Offset": 724,
+              "EndOffset": 738,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 74
+            },
+            {
+              "Line": 112,
+              "Offset": 813,
+              "EndOffset": 815,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 112,
+              "Offset": 813,
+              "EndOffset": 827,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 74
+            },
+            {
+              "Line": 117,
+              "Offset": 868,
+              "EndOffset": 870,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 78
+            },
+            {
+              "Line": 117,
+              "Offset": 868,
+              "EndOffset": 979,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 78
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/VerificationCodeCleanupService.cs": {
+      "Grinder.Api.Services.VerificationCodeCleanupService": {
+        "System.Void Grinder.Api.Services.VerificationCodeCleanupService::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>)": {
+          "Lines": {
+            "28": 144,
+            "29": 144,
+            "30": 144,
+            "31": 144
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeCleanupService/<>c__DisplayClass3_0": {
+        "System.Boolean Grinder.Api.Services.VerificationCodeCleanupService/<>c__DisplayClass3_0::<DeleteExpiredCodes>b__0(Grinder.Api.Models.Entities.VerificationCode)": {
+          "Lines": {
+            "68": 6
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeCleanupService/<DeleteExpiredCodes>d__3": {
+        "System.Void Grinder.Api.Services.VerificationCodeCleanupService/<DeleteExpiredCodes>d__3::MoveNext()": {
+          "Lines": {
+            "62": 144,
+            "63": 144,
+            "65": 144,
+            "67": 144,
+            "69": 144,
+            "71": 438,
+            "72": 3,
+            "73": 3,
+            "74": 2,
+            "75": 2,
+            "77": 2,
+            "78": 1,
+            "79": 1,
+            "80": 1,
+            "81": 2,
+            "83": 3,
+            "84": 3,
+            "86": 144,
+            "87": 144
+          },
+          "Branches": [
+            {
+              "Line": 71,
+              "Offset": 777,
+              "EndOffset": 467,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 3
+            },
+            {
+              "Line": 73,
+              "Offset": 503,
+              "EndOffset": 508,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 77,
+              "Offset": 677,
+              "EndOffset": 679,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 77,
+              "Offset": 677,
+              "EndOffset": 695,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 77,
+              "Offset": 700,
+              "EndOffset": 702,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 77,
+              "Offset": 700,
+              "EndOffset": 727,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 73,
+              "Offset": 503,
+              "EndOffset": 735,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 71,
+              "Offset": 777,
+              "EndOffset": 782,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 144
+            },
+            {
+              "Line": 86,
+              "Offset": 961,
+              "EndOffset": 963,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 144
+            },
+            {
+              "Line": 86,
+              "Offset": 961,
+              "EndOffset": 1071,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 144
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeCleanupService/<ExecuteAsync>d__2": {
+        "System.Void Grinder.Api.Services.VerificationCodeCleanupService/<ExecuteAsync>d__2::MoveNext()": {
+          "Lines": {
+            "44": 144,
+            "45": 144,
+            "46": 144,
+            "47": 144,
+            "50": 144,
+            "51": 0,
+            "52": 0
+          },
+          "Branches": [
+            {
+              "Line": 45,
+              "Offset": 256,
+              "EndOffset": 31,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 144
+            },
+            {
+              "Line": 45,
+              "Offset": 256,
+              "EndOffset": 261,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Services/VerificationCodeService.cs": {
+      "Grinder.Api.Services.VerificationCodeService": {
+        "System.String Grinder.Api.Services.VerificationCodeService::GenerateSixDigitCode()": {
+          "Lines": {
+            "159": 10,
+            "160": 10,
+            "161": 10
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Services.VerificationCodeService::GenerateEmailSubject(Grinder.Api.Models.Entities.CodeType)": {
+          "Lines": {
+            "214": 10,
+            "215": 10,
+            "216": 10,
+            "217": 10,
+            "218": 0,
+            "219": 0,
+            "220": 0,
+            "221": 10,
+            "222": 10
+          },
+          "Branches": [
+            {
+              "Line": 215,
+              "Offset": 6,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 10
+            },
+            {
+              "Line": 215,
+              "Offset": 6,
+              "EndOffset": 33,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 215,
+              "Offset": 6,
+              "EndOffset": 41,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 215,
+              "Offset": 6,
+              "EndOffset": 49,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String Grinder.Api.Services.VerificationCodeService::GenerateEmailBody(Grinder.Api.Models.Entities.CodeType,System.String)": {
+          "Lines": {
+            "237": 10,
+            "238": 10,
+            "239": 10,
+            "240": 10,
+            "241": 10,
+            "242": 10,
+            "243": 10,
+            "244": 10,
+            "245": 10,
+            "246": 10,
+            "247": 10,
+            "248": 10,
+            "249": 10,
+            "250": 10,
+            "251": 10,
+            "252": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "256": 0,
+            "257": 0,
+            "258": 0,
+            "259": 10,
+            "260": 10,
+            "261": 0,
+            "262": 0,
+            "263": 0,
+            "264": 0,
+            "265": 0,
+            "266": 0,
+            "267": 0,
+            "268": 10,
+            "269": 10,
+            "270": 0,
+            "271": 0,
+            "272": 0,
+            "273": 0,
+            "274": 0,
+            "275": 0,
+            "276": 0,
+            "277": 10,
+            "278": 10
+          },
+          "Branches": [
+            {
+              "Line": 238,
+              "Offset": 6,
+              "EndOffset": 25,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 10
+            },
+            {
+              "Line": 238,
+              "Offset": 6,
+              "EndOffset": 44,
+              "Path": 3,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 238,
+              "Offset": 6,
+              "EndOffset": 63,
+              "Path": 2,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 238,
+              "Offset": 6,
+              "EndOffset": 82,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void Grinder.Api.Services.VerificationCodeService::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,System.TimeProvider,Microsoft.Extensions.Logging.ILogger`1<Grinder.Api.Services.VerificationCodeService>,Grinder.Api.Services.IMailKitService)": {
+          "Lines": {
+            "29": 162,
+            "30": 162,
+            "31": 162,
+            "32": 162,
+            "33": 162,
+            "34": 162,
+            "35": 162
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeService/<DeleteUnverifiedUserIfExpiredAsync>d__8": {
+        "System.Void Grinder.Api.Services.VerificationCodeService/<DeleteUnverifiedUserIfExpiredAsync>d__8::MoveNext()": {
+          "Lines": {
+            "176": 115,
+            "177": 115,
+            "178": 87,
+            "179": 87,
+            "182": 28,
+            "183": 28,
+            "184": 28,
+            "185": 28,
+            "187": 28,
+            "188": 17,
+            "189": 17,
+            "192": 11,
+            "193": 7,
+            "194": 7,
+            "197": 4,
+            "198": 4,
+            "199": 4,
+            "201": 4,
+            "202": 115
+          },
+          "Branches": [
+            {
+              "Line": 177,
+              "Offset": 68,
+              "EndOffset": 70,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 102
+            },
+            {
+              "Line": 177,
+              "Offset": 68,
+              "EndOffset": 88,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 13
+            },
+            {
+              "Line": 177,
+              "Offset": 91,
+              "EndOffset": 93,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 87
+            },
+            {
+              "Line": 177,
+              "Offset": 91,
+              "EndOffset": 101,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 28
+            },
+            {
+              "Line": 187,
+              "Offset": 444,
+              "EndOffset": 446,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 17
+            },
+            {
+              "Line": 187,
+              "Offset": 444,
+              "EndOffset": 454,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 11
+            },
+            {
+              "Line": 192,
+              "Offset": 490,
+              "EndOffset": 492,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 7
+            },
+            {
+              "Line": 192,
+              "Offset": 490,
+              "EndOffset": 500,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeService/<GenerateAndStoreCodeAsync>d__5": {
+        "System.Void Grinder.Api.Services.VerificationCodeService/<GenerateAndStoreCodeAsync>d__5::MoveNext()": {
+          "Lines": {
+            "54": 14,
+            "55": 14,
+            "57": 14,
+            "58": 16,
+            "60": 12,
+            "61": 12,
+            "62": 2,
+            "63": 2,
+            "66": 10,
+            "67": 10,
+            "69": 10,
+            "70": 10,
+            "71": 10,
+            "72": 10,
+            "73": 10,
+            "74": 10,
+            "75": 10,
+            "77": 10,
+            "78": 4,
+            "79": 4,
+            "80": 4,
+            "81": 4,
+            "82": 4,
+            "83": 4,
+            "84": 4,
+            "86": 10,
+            "87": 10,
+            "88": 10,
+            "89": 10,
+            "90": 10,
+            "92": 10,
+            "93": 10
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 611,
+              "EndOffset": 613,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 58,
+              "Offset": 611,
+              "EndOffset": 629,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 12
+            },
+            {
+              "Line": 61,
+              "Offset": 778,
+              "EndOffset": 780,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 61,
+              "Offset": 778,
+              "EndOffset": 792,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 10
+            },
+            {
+              "Line": 77,
+              "Offset": 1292,
+              "EndOffset": 1294,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 4
+            },
+            {
+              "Line": 79,
+              "Offset": 1318,
+              "EndOffset": 1320,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 4
+            },
+            {
+              "Line": 79,
+              "Offset": 1318,
+              "EndOffset": 1345,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 4
+            },
+            {
+              "Line": 77,
+              "Offset": 1292,
+              "EndOffset": 1369,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 10
+            },
+            {
+              "Line": 92,
+              "Offset": 1657,
+              "EndOffset": 1659,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 14
+            },
+            {
+              "Line": 92,
+              "Offset": 1657,
+              "EndOffset": 1768,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 14
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Services.VerificationCodeService/<VerifyCodeAsync>d__6": {
+        "System.Void Grinder.Api.Services.VerificationCodeService/<VerifyCodeAsync>d__6::MoveNext()": {
+          "Lines": {
+            "114": 15,
+            "115": 15,
+            "116": 15,
+            "117": 15,
+            "118": 17,
+            "119": 13,
+            "120": 13,
+            "121": 2,
+            "122": 2,
+            "124": 11,
+            "125": 11,
+            "126": 11,
+            "127": 11,
+            "128": 11,
+            "130": 16,
+            "133": 6,
+            "134": 2,
+            "135": 2,
+            "136": 2,
+            "138": 6,
+            "139": 2,
+            "140": 2,
+            "141": 2,
+            "143": 6,
+            "144": 4,
+            "145": 4,
+            "146": 4,
+            "149": 6,
+            "151": 6,
+            "152": 11
+          },
+          "Branches": [
+            {
+              "Line": 118,
+              "Offset": 635,
+              "EndOffset": 637,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 118,
+              "Offset": 635,
+              "EndOffset": 648,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 13
+            },
+            {
+              "Line": 120,
+              "Offset": 797,
+              "EndOffset": 799,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 2
+            },
+            {
+              "Line": 120,
+              "Offset": 797,
+              "EndOffset": 811,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 11
+            },
+            {
+              "Line": 130,
+              "Offset": 1289,
+              "EndOffset": 1291,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 5
+            },
+            {
+              "Line": 130,
+              "Offset": 1289,
+              "EndOffset": 1303,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 6
+            },
+            {
+              "Line": 133,
+              "Offset": 1339,
+              "EndOffset": 1341,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 133,
+              "Offset": 1339,
+              "EndOffset": 1350,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 6
+            },
+            {
+              "Line": 138,
+              "Offset": 1366,
+              "EndOffset": 1368,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 6
+            },
+            {
+              "Line": 138,
+              "Offset": 1366,
+              "EndOffset": 1384,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 138,
+              "Offset": 1389,
+              "EndOffset": 1391,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 138,
+              "Offset": 1389,
+              "EndOffset": 1416,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 6
+            },
+            {
+              "Line": 143,
+              "Offset": 1422,
+              "EndOffset": 1424,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 4
+            },
+            {
+              "Line": 143,
+              "Offset": 1422,
+              "EndOffset": 1435,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 2
+            },
+            {
+              "Line": 143,
+              "Offset": 1440,
+              "EndOffset": 1442,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 4
+            },
+            {
+              "Line": 143,
+              "Offset": 1440,
+              "EndOffset": 1467,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 6
+            },
+            {
+              "Line": 151,
+              "Offset": 1622,
+              "EndOffset": 1624,
+              "Path": 0,
+              "Ordinal": 16,
+              "Hits": 15
+            },
+            {
+              "Line": 151,
+              "Offset": 1622,
+              "EndOffset": 1733,
+              "Path": 1,
+              "Ordinal": 17,
+              "Hits": 15
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/Entities/Task.cs": {
+      "Grinder.Api.Models.Entities.TaskItem": {
+        "System.Int32 Grinder.Api.Models.Entities.TaskItem::get_Id()": {
+          "Lines": {
+            "21": 65
+          },
+          "Branches": []
+        },
+        "System.Int32 Grinder.Api.Models.Entities.TaskItem::get_TaskListId()": {
+          "Lines": {
+            "23": 90
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.TaskList Grinder.Api.Models.Entities.TaskItem::get_TaskList()": {
+          "Lines": {
+            "25": 43
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.TaskItem::get_Title()": {
+          "Lines": {
+            "29": 237
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.TaskItem::get_Description()": {
+          "Lines": {
+            "32": 104
+          },
+          "Branches": []
+        },
+        "System.DateTimeOffset Grinder.Api.Models.Entities.TaskItem::get_CreatedAt()": {
+          "Lines": {
+            "34": 187
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTimeOffset> Grinder.Api.Models.Entities.TaskItem::get_TaskDueAt()": {
+          "Lines": {
+            "35": 102
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.TaskItemStatus Grinder.Api.Models.Entities.TaskItem::get_TaskItemStatus()": {
+          "Lines": {
+            "37": 100
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/Entities/TaskList.cs": {
+      "Grinder.Api.Models.Entities.TaskList": {
+        "System.Int32 Grinder.Api.Models.Entities.TaskList::get_Id()": {
+          "Lines": {
+            "11": 110
+          },
+          "Branches": []
+        },
+        "System.Int32 Grinder.Api.Models.Entities.TaskList::get_UserId()": {
+          "Lines": {
+            "13": 206
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.User Grinder.Api.Models.Entities.TaskList::get_User()": {
+          "Lines": {
+            "15": 36
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.TaskList::get_Name()": {
+          "Lines": {
+            "19": 387
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Grinder.Api.Models.Entities.TaskItem> Grinder.Api.Models.Entities.TaskList::get_Tasks()": {
+          "Lines": {
+            "21": 240
+          },
+          "Branches": []
+        },
+        "System.DateTimeOffset Grinder.Api.Models.Entities.TaskList::get_CreatedAt()": {
+          "Lines": {
+            "23": 354
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/Entities/User.cs": {
+      "Grinder.Api.Models.Entities.User": {
+        "System.Int32 Grinder.Api.Models.Entities.User::get_Id()": {
+          "Lines": {
+            "13": 409
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.User::get_Email()": {
+          "Lines": {
+            "16": 696
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.User::get_DisplayName()": {
+          "Lines": {
+            "21": 675
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.User::get_PasswordHash()": {
+          "Lines": {
+            "24": 655
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.User::get_Country()": {
+          "Lines": {
+            "27": 508
+          },
+          "Branches": []
+        },
+        "System.Boolean Grinder.Api.Models.Entities.User::get_IsVerified()": {
+          "Lines": {
+            "29": 657
+          },
+          "Branches": []
+        },
+        "System.DateTimeOffset Grinder.Api.Models.Entities.User::get_CreatedAt()": {
+          "Lines": {
+            "31": 403
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Grinder.Api.Models.Entities.TaskList> Grinder.Api.Models.Entities.User::get_TaskLists()": {
+          "Lines": {
+            "33": 346
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/Entities/VerificationCode.cs": {
+      "Grinder.Api.Models.Entities.VerificationCode": {
+        "System.Int32 Grinder.Api.Models.Entities.VerificationCode::get_Id()": {
+          "Lines": {
+            "26": 6
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.Entities.VerificationCode::get_Code()": {
+          "Lines": {
+            "28": 115
+          },
+          "Branches": []
+        },
+        "System.DateTimeOffset Grinder.Api.Models.Entities.VerificationCode::get_ExpiresAt()": {
+          "Lines": {
+            "30": 68
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.CodeType Grinder.Api.Models.Entities.VerificationCode::get_Type()": {
+          "Lines": {
+            "32": 46
+          },
+          "Branches": []
+        },
+        "System.Int32 Grinder.Api.Models.Entities.VerificationCode::get_UserId()": {
+          "Lines": {
+            "34": 37
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.User Grinder.Api.Models.Entities.VerificationCode::get_User()": {
+          "Lines": {
+            "35": 60
+          },
+          "Branches": []
+        },
+        "System.DateTimeOffset Grinder.Api.Models.Entities.VerificationCode::get_CreatedAt()": {
+          "Lines": {
+            "37": 60
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/CreateTaskListRequest.cs": {
+      "Grinder.Api.Models.DTOs.CreateTaskListRequest": {
+        "System.String Grinder.Api.Models.DTOs.CreateTaskListRequest::get_Name()": {
+          "Lines": {
+            "15": 61
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/CreateTaskRequest.cs": {
+      "Grinder.Api.Models.DTOs.CreateTaskRequest": {
+        "System.Int32 Grinder.Api.Models.DTOs.CreateTaskRequest::get_TaskListId()": {
+          "Lines": {
+            "12": 10
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.CreateTaskRequest::get_Title()": {
+          "Lines": {
+            "17": 14
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.CreateTaskRequest::get_Description()": {
+          "Lines": {
+            "21": 10
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTimeOffset> Grinder.Api.Models.DTOs.CreateTaskRequest::get_TaskDueAt()": {
+          "Lines": {
+            "23": 10
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.TaskItemStatus Grinder.Api.Models.DTOs.CreateTaskRequest::get_TaskItemStatus()": {
+          "Lines": {
+            "25": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/EditTaskRequest.cs": {
+      "Grinder.Api.Models.DTOs.EditTaskRequest": {
+        "System.String Grinder.Api.Models.DTOs.EditTaskRequest::get_Title()": {
+          "Lines": {
+            "15": 67
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.EditTaskRequest::get_Description()": {
+          "Lines": {
+            "19": 47
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTimeOffset> Grinder.Api.Models.DTOs.EditTaskRequest::get_TaskDueAt()": {
+          "Lines": {
+            "21": 47
+          },
+          "Branches": []
+        },
+        "Grinder.Api.Models.Entities.TaskItemStatus Grinder.Api.Models.DTOs.EditTaskRequest::get_TaskItemStatus()": {
+          "Lines": {
+            "23": 47
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/GenerateVerificationCodeRequest.cs": {
+      "Grinder.Api.Models.DTOs.GenerateVerificationCodeRequest": {
+        "Grinder.Api.Models.Entities.CodeType Grinder.Api.Models.DTOs.GenerateVerificationCodeRequest::get_Type()": {
+          "Lines": {
+            "6": 40
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/LoginRequest.cs": {
+      "Grinder.Api.Models.DTOs.LoginRequest": {
+        "System.String Grinder.Api.Models.DTOs.LoginRequest::get_Email()": {
+          "Lines": {
+            "12": 234
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.LoginRequest::get_Password()": {
+          "Lines": {
+            "15": 230
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.LoginRequest::.ctor(System.String,System.String)": {
+          "Lines": {
+            "8": 160,
+            "9": 160,
+            "10": 160,
+            "11": 160,
+            "13": 160,
+            "14": 160,
+            "16": 160
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/LoginResponse.cs": {
+      "Grinder.Api.Models.DTOs.LoginResponse": {
+        "System.String Grinder.Api.Models.DTOs.LoginResponse::get_Email()": {
+          "Lines": {
+            "7": 73
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.LoginResponse::get_DisplayName()": {
+          "Lines": {
+            "8": 73
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.LoginResponse::.ctor(System.String,System.String)": {
+          "Lines": {
+            "6": 74,
+            "9": 74
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/ProfileResponse.cs": {
+      "Grinder.Api.Models.DTOs.ProfileResponse": {
+        "System.String Grinder.Api.Models.DTOs.ProfileResponse::get_Email()": {
+          "Lines": {
+            "4": 2
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.ProfileResponse::get_DisplayName()": {
+          "Lines": {
+            "5": 2
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.ProfileResponse::get_Country()": {
+          "Lines": {
+            "6": 2
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.ProfileResponse::.ctor(System.String,System.String,System.String)": {
+          "Lines": {
+            "3": 2,
+            "7": 2
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/RegisterRequest.cs": {
+      "Grinder.Api.Models.DTOs.RegisterRequest": {
+        "System.String Grinder.Api.Models.DTOs.RegisterRequest::get_Email()": {
+          "Lines": {
+            "10": 61
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.RegisterRequest::get_DisplayName()": {
+          "Lines": {
+            "16": 61
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.RegisterRequest::get_Password()": {
+          "Lines": {
+            "23": 54
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.RegisterRequest::get_Country()": {
+          "Lines": {
+            "26": 54
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.RegisterRequest::.ctor(System.String,System.String,System.String,System.String)": {
+          "Lines": {
+            "6": 51,
+            "7": 51,
+            "8": 51,
+            "9": 51,
+            "11": 51,
+            "12": 51,
+            "13": 51,
+            "14": 51,
+            "15": 51,
+            "17": 51,
+            "18": 51,
+            "19": 51,
+            "20": 51,
+            "21": 51,
+            "22": 51,
+            "24": 51,
+            "25": 51,
+            "27": 51
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/SendEmailRequest.cs": {
+      "Grinder.Api.Models.DTOs.SendEmailRequest": {
+        "System.String Grinder.Api.Models.DTOs.SendEmailRequest::get_ToEmail()": {
+          "Lines": {
+            "21": 13
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.SendEmailRequest::get_Subject()": {
+          "Lines": {
+            "24": 13
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.SendEmailRequest::get_Body()": {
+          "Lines": {
+            "27": 13
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.SendEmailRequest::.ctor(System.String,System.String,System.String)": {
+          "Lines": {
+            "17": 10,
+            "18": 10,
+            "19": 10,
+            "20": 10,
+            "22": 10,
+            "23": 10,
+            "25": 10,
+            "26": 10,
+            "28": 10
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/UpdatePasswordRequest.cs": {
+      "Grinder.Api.Models.DTOs.UpdatePasswordRequest": {
+        "System.String Grinder.Api.Models.DTOs.UpdatePasswordRequest::get_Email()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.UpdatePasswordRequest::get_Code()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.UpdatePasswordRequest::get_NewPassword()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.UpdatePasswordRequest::get_OldPassword()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.UpdatePasswordRequest::.ctor(System.String,System.String,System.String,System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "10": 0,
+            "11": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "19": 0,
+            "20": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/UpdateProfileRequest.cs": {
+      "Grinder.Api.Models.DTOs.UpdateProfileRequest": {
+        "System.String Grinder.Api.Models.DTOs.UpdateProfileRequest::get_Email()": {
+          "Lines": {
+            "8": 7
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.UpdateProfileRequest::get_DisplayName()": {
+          "Lines": {
+            "13": 6
+          },
+          "Branches": []
+        },
+        "System.String Grinder.Api.Models.DTOs.UpdateProfileRequest::get_Country()": {
+          "Lines": {
+            "15": 6
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.Models.DTOs.UpdateProfileRequest::.ctor(System.String,System.String,System.String)": {
+          "Lines": {
+            "4": 5,
+            "5": 5,
+            "6": 5,
+            "7": 5,
+            "9": 5,
+            "10": 5,
+            "11": 5,
+            "12": 5,
+            "14": 5,
+            "16": 5
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Models/DTOs/VerifyCodeRequest.cs": {
+      "Grinder.Api.Models.DTOs.VerifyCodeRequest": {
+        "System.String Grinder.Api.Models.DTOs.VerifyCodeRequest::get_Email()": {
+          "Lines": {
+            "17": 96
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/DataAccess/DatabaseContext.cs": {
+      "Grinder.Api.DataAccess.DatabaseContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<Grinder.Api.Models.Entities.TaskItem> Grinder.Api.DataAccess.DatabaseContext::get_TaskItems()": {
+          "Lines": {
+            "13": 988
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Grinder.Api.Models.Entities.TaskList> Grinder.Api.DataAccess.DatabaseContext::get_TaskLists()": {
+          "Lines": {
+            "14": 1030
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Grinder.Api.Models.Entities.User> Grinder.Api.DataAccess.DatabaseContext::get_Users()": {
+          "Lines": {
+            "15": 1332
+          },
+          "Branches": []
+        },
+        "Microsoft.EntityFrameworkCore.DbSet`1<Grinder.Api.Models.Entities.VerificationCode> Grinder.Api.DataAccess.DatabaseContext::get_VerificationCodes()": {
+          "Lines": {
+            "16": 1203
+          },
+          "Branches": []
+        },
+        "System.Void Grinder.Api.DataAccess.DatabaseContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions)": {
+          "Lines": {
+            "8": 947,
+            "9": 947,
+            "11": 947
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Controllers/MailKitController.cs": {
+      "Grinder.Api.Controllers.MailKitController": {
+        "System.Void Grinder.Api.Controllers.MailKitController::.ctor(Grinder.Api.Services.IMailKitService)": {
+          "Lines": {
+            "16": 5,
+            "17": 5,
+            "18": 5,
+            "19": 5
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.MailKitController/<SendEmail>d__2": {
+        "System.Void Grinder.Api.Controllers.MailKitController/<SendEmail>d__2::MoveNext()": {
+          "Lines": {
+            "34": 3,
+            "35": 3,
+            "36": 0,
+            "37": 0,
+            "40": 3,
+            "41": 3,
+            "42": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1,
+            "52": 3
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 36,
+              "EndOffset": 38,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 36,
+              "EndOffset": 67,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Controllers/TaskListsController.cs": {
+      "Grinder.Api.Controllers.TaskListsController": {
+        "System.Void Grinder.Api.Controllers.TaskListsController::.ctor(Grinder.Api.Services.ITaskListService,Grinder.Api.Services.IUserService)": {
+          "Lines": {
+            "27": 16,
+            "28": 16,
+            "29": 16,
+            "30": 16,
+            "31": 16
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.TaskListsController/<CreateTaskList>d__5": {
+        "System.Void Grinder.Api.Controllers.TaskListsController/<CreateTaskList>d__5::MoveNext()": {
+          "Lines": {
+            "85": 1,
+            "86": 1,
+            "87": 1,
+            "88": 0,
+            "89": 0,
+            "92": 1,
+            "94": 1,
+            "95": 1,
+            "96": 1,
+            "97": 1,
+            "98": 1,
+            "99": 1
+          },
+          "Branches": [
+            {
+              "Line": 87,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 87,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TaskListsController/<GetTaskList>d__4": {
+        "System.Void Grinder.Api.Controllers.TaskListsController/<GetTaskList>d__4::MoveNext()": {
+          "Lines": {
+            "62": 2,
+            "63": 2,
+            "64": 2,
+            "65": 0,
+            "66": 0,
+            "69": 2,
+            "70": 3,
+            "72": 1,
+            "73": 2
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 70,
+              "Offset": 242,
+              "EndOffset": 244,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 70,
+              "Offset": 242,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TaskListsController/<GetTaskLists>d__3": {
+        "System.Void Grinder.Api.Controllers.TaskListsController/<GetTaskLists>d__3::MoveNext()": {
+          "Lines": {
+            "42": 4,
+            "43": 4,
+            "44": 4,
+            "45": 0,
+            "46": 0,
+            "49": 4,
+            "50": 4,
+            "51": 4
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Controllers/TasksController.cs": {
+      "Grinder.Api.Controllers.TasksController": {
+        "System.Void Grinder.Api.Controllers.TasksController::.ctor(Grinder.Api.Services.ITaskService)": {
+          "Lines": {
+            "24": 18,
+            "25": 18,
+            "26": 18,
+            "27": 18
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.TasksController/<CreateTask>d__5": {
+        "System.Void Grinder.Api.Controllers.TasksController/<CreateTask>d__5::MoveNext()": {
+          "Lines": {
+            "96": 2,
+            "98": 2,
+            "99": 2,
+            "100": 0,
+            "101": 0,
+            "105": 2,
+            "106": 2,
+            "107": 2,
+            "108": 2,
+            "109": 2,
+            "110": 2,
+            "111": 2,
+            "112": 2,
+            "113": 2,
+            "115": 1,
+            "117": 1,
+            "118": 1,
+            "119": 1,
+            "120": 1,
+            "122": 2
+          },
+          "Branches": [
+            {
+              "Line": 99,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 99,
+              "Offset": 53,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 119,
+              "Offset": 367,
+              "EndOffset": 369,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 119,
+              "Offset": 367,
+              "EndOffset": 375,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TasksController/<EditTask>d__6": {
+        "System.Void Grinder.Api.Controllers.TasksController/<EditTask>d__6::MoveNext()": {
+          "Lines": {
+            "136": 7,
+            "138": 7,
+            "139": 7,
+            "140": 0,
+            "141": 0,
+            "145": 7,
+            "146": 7,
+            "147": 7,
+            "148": 7,
+            "149": 7,
+            "150": 7,
+            "151": 7,
+            "152": 7,
+            "153": 7,
+            "155": 6,
+            "156": 1,
+            "157": 1,
+            "160": 5,
+            "162": 1,
+            "163": 1,
+            "164": 1,
+            "165": 1,
+            "167": 7
+          },
+          "Branches": [
+            {
+              "Line": 139,
+              "Offset": 53,
+              "EndOffset": 55,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 139,
+              "Offset": 53,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 7
+            },
+            {
+              "Line": 155,
+              "Offset": 295,
+              "EndOffset": 297,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 155,
+              "Offset": 295,
+              "EndOffset": 320,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 5
+            },
+            {
+              "Line": 164,
+              "Offset": 379,
+              "EndOffset": 381,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 164,
+              "Offset": 379,
+              "EndOffset": 387,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TasksController/<GetTask>d__3": {
+        "System.Void Grinder.Api.Controllers.TasksController/<GetTask>d__3::MoveNext()": {
+          "Lines": {
+            "53": 2,
+            "54": 2,
+            "55": 2,
+            "56": 0,
+            "57": 0,
+            "60": 2,
+            "61": 2,
+            "62": 1,
+            "64": 1,
+            "65": 2
+          },
+          "Branches": [
+            {
+              "Line": 55,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 61,
+              "Offset": 242,
+              "EndOffset": 244,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 61,
+              "Offset": 242,
+              "EndOffset": 263,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TasksController/<GetTasks>d__2": {
+        "System.Void Grinder.Api.Controllers.TasksController/<GetTasks>d__2::MoveNext()": {
+          "Lines": {
+            "35": 4,
+            "36": 4,
+            "37": 4,
+            "38": 0,
+            "39": 0,
+            "42": 4,
+            "43": 4,
+            "44": 4
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 37,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.TasksController/<GetTasksByTaskList>d__4": {
+        "System.Void Grinder.Api.Controllers.TasksController/<GetTasksByTaskList>d__4::MoveNext()": {
+          "Lines": {
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0
+          },
+          "Branches": [
+            {
+              "Line": 76,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 76,
+              "Offset": 56,
+              "EndOffset": 81,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Controllers/UserController.cs": {
+      "Grinder.Api.Controllers.UserController": {
+        "System.Void Grinder.Api.Controllers.UserController::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,Grinder.Api.Services.IUserService,Grinder.Api.Services.IVerificationCodeService)": {
+          "Lines": {
+            "38": 109,
+            "39": 109,
+            "40": 109,
+            "41": 109,
+            "42": 109,
+            "43": 109
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<CheckEmailExists>d__9": {
+        "System.Void Grinder.Api.Controllers.UserController/<CheckEmailExists>d__9::MoveNext()": {
+          "Lines": {
+            "217": 2,
+            "218": 2,
+            "219": 1,
+            "220": 1,
+            "223": 1,
+            "224": 1,
+            "226": 2
+          },
+          "Branches": [
+            {
+              "Line": 218,
+              "Offset": 144,
+              "EndOffset": 146,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 218,
+              "Offset": 144,
+              "EndOffset": 173,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<GetProfile>d__7": {
+        "System.Void Grinder.Api.Controllers.UserController/<GetProfile>d__7::MoveNext()": {
+          "Lines": {
+            "159": 1,
+            "160": 1,
+            "162": 1,
+            "164": 1,
+            "165": 0,
+            "166": 0,
+            "169": 1,
+            "170": 1
+          },
+          "Branches": [
+            {
+              "Line": 164,
+              "Offset": 191,
+              "EndOffset": 193,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 164,
+              "Offset": 191,
+              "EndOffset": 213,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<LoginUser>d__5": {
+        "System.Void Grinder.Api.Controllers.UserController/<LoginUser>d__5::MoveNext()": {
+          "Lines": {
+            "103": 74,
+            "105": 74,
+            "106": 74,
+            "107": 73,
+            "108": 73,
+            "109": 73,
+            "110": 73,
+            "111": 73,
+            "113": 73,
+            "114": 73,
+            "116": 73,
+            "117": 73,
+            "118": 73,
+            "119": 73,
+            "120": 73,
+            "121": 73,
+            "122": 73,
+            "123": 73,
+            "124": 73,
+            "126": 73,
+            "128": 1,
+            "129": 1,
+            "130": 1,
+            "132": 74
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<Logout>d__6": {
+        "System.Void Grinder.Api.Controllers.UserController/<Logout>d__6::MoveNext()": {
+          "Lines": {
+            "143": 2,
+            "144": 2,
+            "145": 2,
+            "146": 2
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<RegisterUser>d__4": {
+        "System.Void Grinder.Api.Controllers.UserController/<RegisterUser>d__4::MoveNext()": {
+          "Lines": {
+            "65": 10,
+            "67": 10,
+            "68": 10,
+            "69": 3,
+            "71": 1,
+            "72": 1,
+            "73": 1,
+            "75": 6,
+            "76": 6,
+            "77": 6,
+            "79": 10
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<UpdatePassword>d__10": {
+        "System.Void Grinder.Api.Controllers.UserController/<UpdatePassword>d__10::MoveNext()": {
+          "Lines": {
+            "231": 0,
+            "232": 0,
+            "233": 0,
+            "234": 0,
+            "235": 0,
+            "238": 0,
+            "239": 0,
+            "240": 0,
+            "241": 0,
+            "245": 0,
+            "246": 0,
+            "247": 0,
+            "249": 0,
+            "250": 0,
+            "251": 0,
+            "253": 0,
+            "254": 0,
+            "255": 0,
+            "257": 0
+          },
+          "Branches": [
+            {
+              "Line": 233,
+              "Offset": 67,
+              "EndOffset": 69,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 233,
+              "Offset": 67,
+              "EndOffset": 87,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 239,
+              "Offset": 248,
+              "EndOffset": 250,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 239,
+              "Offset": 248,
+              "EndOffset": 273,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "Grinder.Api.Controllers.UserController/<UpdateProfile>d__8": {
+        "System.Void Grinder.Api.Controllers.UserController/<UpdateProfile>d__8::MoveNext()": {
+          "Lines": {
+            "187": 2,
+            "188": 2,
+            "191": 2,
+            "192": 2,
+            "194": 1,
+            "195": 0,
+            "196": 0,
+            "199": 1,
+            "201": 1,
+            "202": 1,
+            "203": 1,
+            "205": 2
+          },
+          "Branches": [
+            {
+              "Line": 194,
+              "Offset": 206,
+              "EndOffset": 208,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 194,
+              "Offset": 206,
+              "EndOffset": 223,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "/home/typo/uni/seng302/team-300/Grinder.Api/Controllers/VerificationCodeController.cs": {
+      "Grinder.Api.Controllers.VerificationCodeController": {
+        "System.Void Grinder.Api.Controllers.VerificationCodeController::.ctor(Microsoft.EntityFrameworkCore.IDbContextFactory`1<Grinder.Api.DataAccess.DatabaseContext>,Grinder.Api.Services.IVerificationCodeService)": {
+          "Lines": {
+            "34": 13,
+            "35": 13,
+            "36": 13,
+            "37": 13,
+            "38": 13
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.VerificationCodeController/<GenerateCode>d__4": {
+        "System.Void Grinder.Api.Controllers.VerificationCodeController/<GenerateCode>d__4::MoveNext()": {
+          "Lines": {
+            "78": 5,
+            "80": 5,
+            "81": 5,
+            "82": 3,
+            "84": 2,
+            "85": 2,
+            "86": 2,
+            "88": 5
+          },
+          "Branches": []
+        }
+      },
+      "Grinder.Api.Controllers.VerificationCodeController/<VerifyCode>d__3": {
+        "System.Void Grinder.Api.Controllers.VerificationCodeController/<VerifyCode>d__3::MoveNext()": {
+          "Lines": {
+            "53": 8,
+            "55": 8,
+            "56": 8,
+            "57": 8,
+            "58": 10,
+            "59": 2,
+            "61": 2,
+            "62": 2,
+            "63": 2,
+            "65": 8
+          },
+          "Branches": [
+            {
+              "Line": 58,
+              "Offset": 222,
+              "EndOffset": 224,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 4
+            },
+            {
+              "Line": 58,
+              "Offset": 222,
+              "EndOffset": 248,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}
